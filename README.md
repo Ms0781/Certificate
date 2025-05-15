@@ -1,4 +1,11 @@
-
-
- <h1>100 Activity Points Program</h1>
-![image](https://github.com/user-attachments/assets/35a85b53-a717-49a5-b10a-cc0250d38171)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Activity Points Program</title>
+</head>
+<body>
+  <h1>100 Activity Points Program</h1>
+</body>
+</html>
